@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+}
+
+#titulo
+{
+    display: flex;
+    justify-content: center;
+}
+
+#monedas 
+{
+    display: flex;
+    justify-content: center;
+}
+
+#lista li 
+{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
